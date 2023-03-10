@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miguel-angel-linares-morales/" target="_blank">
-    <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="linkeding badge" />
+    <img src="https://img.shields.io/badge/<Linkedin>-<Linkedin>-<blue>" alt="linkeding badge" />
   </a>
 </div>
 
