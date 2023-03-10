@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 <div align="left">
   <h3 Languages and Tools:</h3>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="BootStrap">&nbsp;   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40" title="HTML5" alt="HTML">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" title="CSS3" alt="CSS">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"         alt="JavaScript">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" title="Bootstrap" alt="BootStrap">&nbsp;   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40" title="Git" alt="Git">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" height="40" title="Java" alt="Java">&nbsp;
     <!--<img src="" title="JEE" alt="JEE">&nbsp;-->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="JavaScript">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" title="PHP" alt="PHP">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40" title="NodeJS" alt="NodeJS">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40" title="MySQL" alt="JavaScript">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" height="40" title="MongoDB" alt="MongoDB">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL">&nbsp;
     <img src="" title="SQL Server" alt="SQL Server">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="SQLite" alt="SQLite">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="40" height="40" title="SQLite" alt="SQLite">&nbsp;
   </div>
 </div>
 
