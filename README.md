@@ -4,16 +4,16 @@
   <h3 align="center"> Junior Web Developer </h3>
 </div>
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miguel-angel-linares-morales/" target="_blank">
     <img src="https://img.shields.io/badge/<Linkedin>-<Linkedin>-<blue>" alt="linkeding badge" />
   </a>
-</div>
+</div>-->
 
 ---
 ### 
 
-<!--
+
 **ylak963/ylak963** My name is Miguel Angel Linares. Junior Web Developer Is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 - 😄 Pronouns: Happiness, Creative, Funny, Peace, Health, Money
 - ⚡ Fun fact: Sports, Books, Music, Documentary, Conferences, E-sports
--->
+
 
 <div align="left">
   <h3 Languages and Tools:</h3>
