@@ -14,7 +14,7 @@
 ### 
 
 
-**ylak963/ylak963** My name is Miguel Angel Linares. Junior Web Developer Is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ylak963/ylak963** My name is Miguel Angel Linares. Junior Web Developer <!--Is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
