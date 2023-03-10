@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **HTML, CSS**
-- 📫 How to reach me: ..
+- 📫 How to reach me: https://www.linkedin.com/in/miguel-angel-linares-morales/
 - 😄 Pronouns: Happiness, Creative, Funny, Peace, Health, Money
 - ⚡ Fun fact: Sports, Books, Music, Documentary, Conferences, E-sports
 
