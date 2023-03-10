@@ -50,8 +50,8 @@
 ---
 ### My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ylak63&theme=highcontrast&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)] (https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ylak63&theme=highcontrast&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![ylak963 GitHub stats](https://github-readme-stats.vercel.app/api?username=ylak963&show_icons=true&theme=radical) 
+![ylak963 GitHub stats](https://github-readme-stats.vercel.app/api?username=ylak963&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylak963&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
