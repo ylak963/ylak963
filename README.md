@@ -50,7 +50,7 @@
 ---
 ### My Stats :
 
-[![GitHub Streak](http://github-readme.streak-stats.herokuapp.com?user=ylak963&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme.streak-stats.herokuapp.com?user=ylak963&theme=dark)](https://git.io/streak-stats)-->
 
 ![ylak963 GitHub stats](https://github-readme-stats.vercel.app/api?username=ylak963&show_icons=true&theme=radical)
 
