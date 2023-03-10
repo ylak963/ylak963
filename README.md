@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="200"/>
-  <h1 align="center">Hi there 👋 I'm ylak963 and my name is Miguel Angel Linares</h1>
+  <h1 align="center">Hi there 👋 I'm ylak963 </h1>
   <h3 align="center"> Junior Web Developer </h3>
 </div>
 
@@ -14,7 +14,7 @@
 ### 
 
 
-**ylak963/ylak963** My name is Miguel Angel Linares. Junior Web Developer 
+ My name is Miguel Angel Linares
 
 
 - 🔭 I’m currently working on Web Development
